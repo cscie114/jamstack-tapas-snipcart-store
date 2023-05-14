@@ -20,3 +20,5 @@
 ```
 
 Check out `src/index.liquid` and `src/_data/products.json` as a good place to start seeing how Snipcart is easily implemented.
+
+<img width="1639" alt="image" src="https://github.com/cscie114/jamstack-tapas-snipcart-store/assets/4117033/f8487499-8626-4861-ab89-610d42caabec">
